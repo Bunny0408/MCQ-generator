@@ -1,0 +1,15 @@
+In the beginning of the year 1990s, NLP started growing faster and achieved good process accuracy, especially in English Grammar. In 1990 also, an electronic text introduced, which provided a good resource for training and examining natural language programs. Other factors may include the availability of computers with fast CPUs and more memory. The major factor behind the advancement of natural language processing was the Internet.
+Now, modern NLP consists of various applications, like speech recognition, machine translation, and machine text reading. When we combine all these applications then it allows the artificial intelligence to gain knowledge of the world. Let's consider the example of AMAZON ALEXA, using this robot you can ask the question to Alexa, and it will reply to you.
+Advantages of NLP
+NLP helps users to ask questions about any subject and get a direct response within seconds.
+NLP offers exact answers to the question means it does not offer unnecessary and unwanted information.
+NLP helps computers to communicate with humans in their languages.
+It is very time efficient.
+Most of the companies use NLP to improve the efficiency of documentation processes, accuracy of documentation, and identify the information from large databases.
+Disadvantages of NLP
+A list of disadvantages of NLP is given below:
+
+NLP may not show context.
+NLP is unpredictable
+NLP may require more keystrokes.
+NLP is unable to adapt to the new domain, and it has a limited function that's why NLP is built for a single and specific task only.
