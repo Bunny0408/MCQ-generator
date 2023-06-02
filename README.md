@@ -7,6 +7,9 @@ This project aims to simplify the challenging task of carefully examining the sm
 
 It takes the input in the form of a text then when clicked on button it creats MCQs and then we can see them in next prompt by clicking show button.
 
+Youtube Link :
+https://youtu.be/pieTg8YxcGM
+
 
 # This Python code helps generate multiple-choice questions (MCQs) from a given text article. Here's a simple explanation of how it works:
 
