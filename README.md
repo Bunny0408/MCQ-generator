@@ -1,7 +1,7 @@
 # MCQ-generator-
 To generate MCQ by given Text
 
-The main objective of this project is to simplify the laborious process of examining complex details of a input text  in order to produce Multiple Choice Questions (MCQs) for various quizzes.
+The main objective of this project is to simplify the laborious process of examining complex details of a textual artical in order to produce Multiple Choice Questions (MCQs) for various quizzes.
 
 This project aims to simplify the challenging task of carefully examining the small details in a written piece. Its ultimate objective is to generate top-quality MCQs with four options, using Natural Language Processing. 
 
